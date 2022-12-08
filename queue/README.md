@@ -3,5 +3,5 @@ Driven by main
 The queue itself is implemented in libqueue.a, linked statically to main
 
 ## To run
-`make`
+`make`  
 `./main`
